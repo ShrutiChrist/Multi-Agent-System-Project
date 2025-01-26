@@ -29,33 +29,6 @@ Welcome to the **AI Investment Report Generator**! This powerful tool leverages 
    - **Writer Agent**: Crafts a clear, concise investment report based on the research and compliance data. ✍️
 5. **Download the Report**: Once the report is generated, download it in markdown format or view a preview directly on the app. 💾
 
-## 📂 Installation
-
-To run the **AI Investment Report Generator** locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/ai-investment-report-generator.git
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    cd ai-investment-report-generator
-    pip install -r requirements.txt
-    ```
-
-3. **Set up environment variables**:
-    - Create a `.env` file in the root directory and add your `GROQ_API_KEY` for the LangChain API.
-
-    ```plaintext
-    GROQ_API_KEY=your_api_key_here
-    ```
-
-4. **Run the Streamlit app**:
-    ```bash
-    streamlit run app.py
-    ```
-
 
 ## 🧑‍💻 Usage
 
